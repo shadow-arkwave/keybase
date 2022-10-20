@@ -1,0 +1,24 @@
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101ddec4272cdf035df1c2247adc46c2d05162f8eb67d2f0e66b7bfc46bbc4e59490a",
+      "fingerprint": "f04e16d3282c4f877682d65abfe38eb60fdf1f10",
+      "host": "keybase.io",
+      "key_id": "bfe38eb60fdf1f10",
+      "kid": "0101ddec4272cdf035df1c2247adc46c2d05162f8eb67d2f0e66b7bfc46bbc4e59490a",
+      "uid": "b8d2337838acba6395f646495b9aae19",
+      "username": "ianc_shadows"
+    },
+    "service": {
+      "name": "github",
+      "username": "shadow-arkwave"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1666233466,
+  "expire_in": 157680000,
+  "prev": "29c003402ae7fdf262d9032e5166499956e333c5f84a2b8405b0f84deb97ea9e",
+  "seqno": 5,
+  "tag": "signature"
+}
